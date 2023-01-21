@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   sensor_msgs
   std_msgs
-  python-numpy
+  python_numpy
 )
 
 ## System dependencies are found with CMake's conventions
